@@ -6,12 +6,12 @@ As a developer, I enjoy coding with C, C++, and Python. An average day when I pr
 
 [![madaagain](https://github-profile-trophy.vercel.app/?username=madaagain&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🛠️ Tools
+## Tools
 Main Languages: C, C++, Python. sometimes X86-64 assembly (very rarely) 🍟
 Tools & Technologies: Git, Linux, Docker, Ansible...
 Interests: Systems programming, Low-Level, ML/DL🏗️.
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - Feel free to reach out if you need help to restart your computer or if you're having issues with your printer:
 
