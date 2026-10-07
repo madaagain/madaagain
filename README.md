@@ -1,6 +1,8 @@
 # Hey, I'm Mada-Again 👩‍🎤
 Welcome to my GitHub profile! I'm just a random guy who loves programming. My journey through code is essentially guided by curiosity: if something seems interesting, I'll dive into it 🧌.
 
+Currently the founder of Val-Eight we build agent with their own machine in the cloud 
+
 ## About Me
 As a developer, I enjoy coding with C, C++, and Python. An average day when I program is from low-level to system programming to my current focus on implementing **safer AI** on local machines in the simplest way possible for users 🦹.
 
